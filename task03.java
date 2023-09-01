@@ -26,7 +26,7 @@ public class task03 {
         }
     }
 
-    public static void printSum(int a, int b) {
+    public static void printSum(int a, int b) throws ArithmeticException {
             System.out.println(a + b);
     }
 
