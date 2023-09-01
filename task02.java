@@ -12,6 +12,8 @@ public class task02 {
             e.printStackTrace();
         } catch (ArrayIndexOutOfBoundsException e) {
             e.printStackTrace();
+        } catch (NullPointerException e) {
+            e.printStackTrace();
         }
     }
 }
